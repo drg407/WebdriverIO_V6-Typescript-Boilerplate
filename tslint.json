@@ -1,0 +1,19 @@
+{
+  "defaultSeverity": "error",
+  "no-default-export": false,
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    "quotemark": [true, "single", "avoid-escape", "jsx-double"],
+    "trailing-comma": false,
+    "no-var-keyword": true,
+    "indent": [true, "spaces", 4],
+    "eofline": false,
+    "whitespace": true,
+    "import-spacing": true,
+    "prefer-const": true,
+    "member-access": true,
+    "no-unused-expression": false
+  },
+  "rulesDirectory": []
+}
