@@ -5,7 +5,7 @@ This is a boilerplate project that uses WebdriverIO v6 and TypeScript v3. It inc
 ## Getting Started
 
 ```code
-git clone this repo
+git clone https://github.com/drg407/WebdriverIO_V6-Typescript-Boilerplate.git
 cd typescript-wdio-boilerplate
 npm install
 npm test
